@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Akira_Ishikki")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Not_Kakarot")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","Domain_X_MusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME","YUMEKO_ROBOT_B0T")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -30,7 +30,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 5758713974))
+OWNER_ID = int(getenv("OWNER_ID", 7804637858))
 
 # make your bots privacy from telegra.ph and put your url here 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://graph.org/PRIVACY-FOR-TEAM-PURVI-BOTS-09-18")
@@ -51,8 +51,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/APEX_X_NETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AKIRA_ISHIKKI")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/EvoKakarot")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Not_Kakarot")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -95,14 +95,14 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/6fyzm7.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/8ff7a386f161aea9ed5fb.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/3xhsig.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/b4gvw0.jpg"
+TELEGRAM_AUDIO_URL = "https://i.ibb.co/bWZDJFD/photo-2024-11-03-03-46-11.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/gzcgjy.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/9q20ni.mp4"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/9q20ni.mp4"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
 
